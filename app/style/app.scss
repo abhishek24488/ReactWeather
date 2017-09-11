@@ -1,0 +1,18 @@
+$space-large:2.5rem;
+$space-length: 500px;
+.page-title {
+    color: grey;
+    margin-top: $space-large;
+    margin-bottom: $space-large; 
+    margin-left: $space-length;
+    margin-right: $space-length;
+}
+
+input[type=search]{
+    box-shadow: none;
+}
+
+.btnxyz{
+    margin-left: 100 !important;
+    margin-right: 100 !important;
+}
